@@ -57,3 +57,12 @@ function randomNum(start,end){
     return random;  
 }
 // console.log(randomNum(10,30));
+
+let a = 987654321234567823456789098765434567890987887n;
+// console.log(a);
+
+// let arr1=[1,2,3,5,7];
+// let arr2=[5,6,7,9,3];
+// let combine = [...arr1,...arr2];
+// console.log(combine);
+
